@@ -1,5 +1,9 @@
 # 🌶️ Welcome to my GitHub profile 🌶️
 
+<p align="center">
+  <img alt="gmail" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/Simple%20Banner.png?raw=true width=150">
+</p>
+
 ## 👨‍💻 About Me
 Welcome, welcome... *watch out for the head at the entrance*. 
 
@@ -9,7 +13,7 @@ I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame deve
 
 ## 🚀 Projects
 
-**TODO: Actaully have my projects here**
+***TODO: Actually have my projects here***
 
 ---
 
