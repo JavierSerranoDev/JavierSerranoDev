@@ -30,36 +30,49 @@ I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame deve
 
 ## 💻 Skills & Technologies
 
-<p align="center">
+### Game Development
+<p align="left">
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></a>
-  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /></a>
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" /></a>
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" /></a>
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" /></a>
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg" width="40" height="40" /></a>
+</p>
+
+### Web Development
+<p align="left">
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /></a>
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" /></a>
+</p>
+
+### Mobile App Development
+<p align="left">
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" /></a>
-  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" /></a>
-  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" /></a>
-  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" /></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></a>       
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></a>       
+</p>
+
+### Other (Project Management | Team Lead)
+<p align="left">
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
 </p>
 
 <div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JavierSerranoDev&show_icons=true&hide_border=true&count_private=true&theme=gotham" />
     <img alt="GitHub stats" height="175" src="https://github-readme-stats.vercel.app/api?username=JavierSerranoDev&show_icons=true&hide_border=true&count_private=true&theme=graywhite" />
   </picture>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSerranoDev&show_icons=true&hide_border=true&layout=compact&theme=gotham" />
     <img alt="Top Languages" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSerranoDev&show_icons=true&hide_border=true&layout=compact&theme=graywhite" />
   </picture>
-
 </div>
 
 ---
