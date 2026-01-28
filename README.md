@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 Welcome, welcome... *watch out for the head at the entrance*. 
 
-I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame developer. I have more than 10 years of experience with Unity, helped create videogames and apps at RCK Games and taught in universities in subjects about game development and usage of game engine. I have worked as a programmer, team lead and project manager. Currently doing my MSc Computer Science for Games Programming at University of Hull in the United Kingdom.
+I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame developer. I have more than 10 years of experience with Unity, helped create videogames and apps at [RCK Games](https://rckgames.com/) and taught in universities in subjects about game development and usage of game engine. I have worked as a programmer, team lead and project manager. Currently doing my MSc Computer Science for Games Programming at University of Hull in the United Kingdom.
 
 ---
 
@@ -18,46 +18,6 @@ I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame deve
     <b>BSc Graduate in Software Engineering</b> | Universidad Autónoma de Yucatán (Autonomous University of Yucatan), Merida, Mexico <br/>
     <b>MSc Student in Computer Science for Games Programming</b> | University of Hull, Kingston upon Hull, United Kingdom
   </sub>
-</p>
-
----
-
-## 🚀 Projects
-
-### Real-Time Graphics | C++ Design and Programming - Final Lab Work
-
-**Position:** MSc Student in Computer Science for Games Programming @ University of Hull.
-**Description:** Final Lab Work for both Real-Time Graphics and C++ Design and Programming courses. A snow-globe desert enviorment using C++ and Vulkan with our own OBJ loader, shadows, particle systems, climate change, shaders, render pipelines, lighting and HDR implementation.
-
-<p align="left">
-  <img alt="Vulkan Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Vulkan.gif?raw=true" width="150">
-</p>
-
-### Vicente Fernández Te Canta Desde El Cielo
-
-**Position:** Team Lead.
-**Description:** Using 8th Wall's AR technology, this web app makes appear in the sky the famous mexican singer Vicente Fernández videos of him singing with rose petals particles.
-
-<p align="left">
-  <img alt="Chente Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Chente.gif?raw=true" width="150">
-</p>
-
-### Jurassic Tycoon
-
-**Position:** Team Lead.
-**Description:** A Roblox tycoon-like game about building your own Jurassic Attraction Park.
-
-<p align="left">
-  <img alt="Jurassic Tycoon Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/JurassicTycoon.gif?raw=true" width="150">
-</p>
-
-### Catforce
-
-**Position:** Sole programmer.
-**Description:** A top-down shooter arena game about cats fighting evil dog aliens for the Nintendo 3DS game developed on Unity 5 with Nintendo's development kit.
-
-<p align="left">
-  <img alt="Catforce Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Catforce.gif?raw=true" width="150">
 </p>
 
 ---
@@ -108,6 +68,112 @@ I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame deve
     <img alt="Top Languages" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSerranoDev&show_icons=true&hide_border=true&layout=compact&theme=graywhite" />
   </picture>
 </div>
+
+---
+
+## 🚀 Projects
+
+### [Real-Time Graphics | C++ Design and Programming - Final Lab Work](https://www.hull.ac.uk/study/postgraduate-taught/courses/computer-science-for-games-programming-msc?option=msc&year=2026&mode=1-year&month=september)
+
+**Position:** MSc Student in Computer Science for Games Programming.
+
+**At:** University of Hull.
+
+**Description:** Final Lab Work for both Real-Time Graphics and C++ Design and Programming courses. A snow-globe desert enviorment using C++ and Vulkan with our own OBJ loader, shadows, particle systems, climate change, shaders, render pipelines, lighting and HDR implementation.
+
+<p align="center">
+  <img alt="Vulkan Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Vulkan.gif?raw=true" width="300">
+</p>
+
+### [RECSAM](https://play.google.com/store/apps/details?id=com.clijutey.recsam&hl=en-US)
+
+**Position:** Project Manager | Team Lead
+
+**At:** Freelance
+
+**Description:** Android application where psicology experts can appoint notes about their patients and automatically generate reports out of them.
+
+<p align="center">
+  <img alt="RECSAM Demo 1" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/recsam_1.webp?raw=true" width="150">
+  <img alt="RECSAM Demo 2" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/recsam_2.webp?raw=true" width="150">
+  <img alt="RECSAM Demo 3" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/recsam_3.webp?raw=true" width="150">
+</p>
+
+### Vicente Fernández Te Canta Desde El Cielo
+
+**Position:** Team Lead.
+
+**At:** [RCK Games](https://rckgames.com/).
+
+**Description:** Using 8th Wall's AR technology, this web app makes appear in the sky the famous mexican singer Vicente Fernández videos of him singing with rose petals particles.
+
+<p align="center">
+  <img alt="Chente Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Chente.gif?raw=true" width="300">
+</p>
+
+### The North Face - "Global Warming Series"
+
+**Position:** Team Lead.
+
+**At:** [RCK Games](https://rckgames.com/).
+
+**Description:** Using react and three.js, we created a visualizer web application to see 3D models of the clothe's brand for this global warming enviormental series.
+
+<p align="center">
+  <img alt="NoerthFace Header" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/northface_header.png?raw=true" width="300">
+  <img alt="NoerthFace Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/northface_1.webp?raw=true" width="300">
+</p>
+
+### Jurassic Tycoon
+
+**Position:** Team Lead.
+
+**At:** [RCK Games](https://rckgames.com/).
+
+**Description:** A Roblox tycoon-like game about building your own Jurassic Attraction Park.
+
+<p align="center">
+  <img alt="Jurassic Tycoon Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/JurassicTycoon.gif?raw=true" width="300">
+</p>
+
+### [AXESS by AXE](https://play.google.com/store/apps/details?id=com.rckgames.axess&hl=en-US)
+
+**Position:** Team Lead.
+
+**At:** [RCK Games](https://rckgames.com/).
+
+**Description:** Mobile multiplayer experience where you can have your avatar.
+
+<p align="center">
+  <img alt="AXESS Demo 1" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/axess_appstore_1.png?raw=true" width="150">
+  <img alt="AXESS Demo 2" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/axess_appstore_2.png?raw=true" width="150">
+  <img alt="AXESS Demo 3" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/axess_appstore_3.png?raw=true" width="150">
+</p>
+
+### Catforce
+
+**Position:** Sole programmer.
+
+**At:** [RCK Games](https://rckgames.com/).
+
+**Description:** A top-down shooter arena game about cats fighting evil dog aliens for the Nintendo 3DS game developed on Unity 5 with Nintendo's development kit.
+
+<p align="center">
+  <img alt="Catforce Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Catforce.gif?raw=true" width="300">
+</p>
+
+### Ghost Apocalypse
+
+**Position:** Programmer.
+
+**At:** [RCK Games](https://rckgames.com/).
+
+**Description:** A tower defense game where a family of wizards most defend their town from a ghost invation.
+
+<p align="center">
+  <img alt="Ghost Apocalypse Header" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/ghostapocalypse_header.png?raw=true" width="300">
+  <img alt="Ghost Apocalypse Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/ghostapocalypse_1.webp?raw=true" width="300">
+</p>
 
 ---
 
