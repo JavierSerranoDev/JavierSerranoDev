@@ -66,10 +66,10 @@ I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame deve
 
 ## 📫 Contact
 <p align="center">
-<a href="mailto:javierserranodev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-%23EA4335?logo=gmail&logoColor=white"></a>
-<a hrf="https://javiserrano.itch.io/"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jose-javier-serrano-solis/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2"></a>
-<a href="https://www.instagram.com/javi.pepper/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram"></a>
-<a href="https://x.com/javi_pepper_"><img alt="X" src="https://img.shields.io/badge/x-%23000000?logo=x"></a>
-<a href="https://www.tiktok.com/@javi.pepper_"><img alt="TikTok" src="https://img.shields.io/badge/tiktok-%23000000?logo=tiktok"></a>
+  <a href="mailto:javierserranodev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-%23EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://javiserrano.itch.io/"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jose-javier-serrano-solis/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2"></a>
+  <a href="https://www.instagram.com/javi.pepper/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23FF0069?logo=instagram"></a>
+  <a href="https://x.com/javi_pepper_"><img alt="X" src="https://img.shields.io/badge/x-%23000000?logo=x"></a>
+  <a href="https://www.tiktok.com/@javi.pepper_"><img alt="TikTok" src="https://img.shields.io/badge/tiktok-%23000000?logo=tiktok"></a>
 </p>
