@@ -24,7 +24,41 @@ I'm Javier Serrano aka Javi.Pepper a senior software engineer and videogame deve
 
 ## 🚀 Projects
 
-***TODO: Actually have my projects here***
+### Real-Time Graphics | C++ Design and Programming - Final Lab Work
+
+**Position:** MSc Student in Computer Science for Games Programming @ University of Hull.
+**Description:** Final Lab Work for both Real-Time Graphics and C++ Design and Programming courses. A snow-globe desert enviorment using C++ and Vulkan with our own OBJ loader, shadows, particle systems, climate change, shaders, render pipelines, lighting and HDR implementation.
+
+<p align="left">
+  <img alt="Vulkan Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Vulkan.gif?raw=true" width="150">
+</p>
+
+### Vicente Fernández Te Canta Desde El Cielo
+
+**Position:** Team Lead.
+**Description:** Using 8th Wall's AR technology, this web app makes appear in the sky the famous mexican singer Vicente Fernández videos of him singing with rose petals particles.
+
+<p align="left">
+  <img alt="Chente Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Chente.gif?raw=true" width="150">
+</p>
+
+### Jurassic Tycoon
+
+**Position:** Team Lead.
+**Description:** A Roblox tycoon-like game about building your own Jurassic Attraction Park.
+
+<p align="left">
+  <img alt="Jurassic Tycoon Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/JurassicTycoon.gif?raw=true" width="150">
+</p>
+
+### Catforce
+
+**Position:** Sole programmer.
+**Description:** A top-down shooter arena game about cats fighting evil dog aliens for the Nintendo 3DS game developed on Unity 5 with Nintendo's development kit.
+
+<p align="left">
+  <img alt="Catforce Demo" src="https://github.com/JavierSerranoDev/JavierSerranoDev/blob/main/media/Catforce.gif?raw=true" width="150">
+</p>
 
 ---
 
