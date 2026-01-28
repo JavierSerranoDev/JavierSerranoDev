@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 Welcome, welcome... *Watch your head at the entrance.*. 
 
-I'm Javier Serrano (aka. Javi.Pepper) a senior software engineer and videogame developer. I have more than 10 years of experience with Unity, helped create videogames and apps at [RCK Games](https://rckgames.com/) and taught in universities in subjects about game development and usage of game engine. I have worked as a programmer, team lead and project manager. Currently doing my MSc Computer Science for Games Programming at University of Hull in the United Kingdom.
+I'm Javier Serrano (aka. Javi.Pepper) a senior software engineer and videogame developer. I have more than 10 years of experience with Unity, helped create videogames and apps at [RCK Games](https://rckgames.com/) and taught in [universities](https://merida.anahuac.mx/) in subjects about game development and usage of game engine. I have worked as a programmer, team lead and project manager. Currently doing my MSc Computer Science for Games Programming at University of Hull in the United Kingdom.
 
 ---
 
