@@ -25,6 +25,7 @@ I'm Javier Serrano (aka. Javi.Pepper) a senior software engineer and videogame d
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" /></a>
   <a href="https://github.com/JavierSerranoDev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" /></a>
